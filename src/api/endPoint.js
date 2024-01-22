@@ -1,0 +1,1 @@
+export const GET_ALL_FOREX = "forex/get_all_exchange_currency"
